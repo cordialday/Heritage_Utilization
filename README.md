@@ -3,4 +3,4 @@
 
 2024년 국가유산 활용 현황 데이터 분석
 
-https://colab.research.google.com/drive/1IZaKVJM5gu0Qw5ofZC8ezznBy2pGwoa6?usp=drive_link
+구글 코랩 링크: https://colab.research.google.com/drive/1IZaKVJM5gu0Qw5ofZC8ezznBy2pGwoa6?usp=drive_link
